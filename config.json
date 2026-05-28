@@ -1,6 +1,6 @@
 {
-  "auth_key": "My777GHSuperSecret123!@#",
-  "worker_url": "https://wandering-sky-ed88.aref-gha.workers.dev/",
+  "auth_key": "",
+  "worker_url": "",
   "chunked_download_max_chunks": 256,
   "chunked_download_max_parallel": 8,
   "chunked_download_min_size": 5242880,
